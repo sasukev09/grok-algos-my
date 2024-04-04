@@ -22,8 +22,11 @@ def selection_sort(arr):  # function define, passing an array as an argument
         new_array.append(arr.pop(smallest))  # adding result after finding it, and removing it from the old array.
     return new_array    # return the newly created and sorted array
 
+# defining old_array and printing results
+
 
 old_array = [5, 3, 6, 2, 10]
+
 print('old array: ')
 print(old_array)
 print('new sorted array: ')
