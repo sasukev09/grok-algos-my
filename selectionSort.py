@@ -27,7 +27,14 @@ def selection_sort(arr):  # function define, passing an array as an argument
 
 old_array = [5, 3, 6, 2, 10]
 
-print('old array: ')
-print(old_array)
-print('new sorted array: ')
-print(selection_sort([5, 3, 6, 2, 10]))
+#print('old array: ')
+#print(old_array)
+##print('new sorted array: ')
+#print(selection_sort([5, 3, 6, 2, 10]))
+
+#print(selection_sort([2,1] + [3] + selection_sort([5,4])))
+
+sort_this = selection_sort([1,3,7,9]) + [5]
+print(sort_this)
+final_Sort = selection_sort(sort_this)
+print(final_Sort)
