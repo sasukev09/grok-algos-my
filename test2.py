@@ -118,3 +118,24 @@ def sortedSquares(nums):
 
 
 print(sortedSquares(nums))
+
+
+
+def sumFactors(number):
+    res = 0
+    for i in range(1, number + 1):
+        if (number % i == 0):
+            res += i
+    return res
+
+
+def sumOfFactor(number):
+    asd = 0
+    for i in range(1, number + 1):
+        if (number % i == 0):
+            asd += i
+    return asd
+
+print(sumOfFactor(12))
+
+print(sumFactors(1))

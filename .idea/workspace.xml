@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="562f4d3b-8448-4f34-8157-c196de5d8fb8" name="Changes" comment="more algos">
+    <list default="true" id="562f4d3b-8448-4f34-8157-c196de5d8fb8" name="Changes" comment="Practice code for Leetcode and algos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
     "Python.idk.executor": "Run",
     "Python.mangoSellerQueue.executor": "Run",
     "Python.maximumNumberInAList.executor": "Run",
+    "Python.perfecNumbers.executor": "Run",
     "Python.pivotQuicksort.executor": "Run",
     "Python.recursion.executor": "Run",
     "Python.recursionPt2.executor": "Run",
@@ -62,6 +64,8 @@
     "Python.stack.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test2.executor": "Run",
+    "Python.test3.executor": "Run",
+    "Python.test4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -121,7 +125,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713156519273</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practice code for Leetcode and algos">
+      <option name="closed" value="true" />
+      <created>1713467390267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713467390268</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Practice code for Leetcode and algos">
+      <option name="closed" value="true" />
+      <created>1714444996823</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714444996825</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="selection sort algorthm april 2nd" />
     <MESSAGE value="more algos" />
-    <option name="LAST_COMMIT_MESSAGE" value="more algos" />
+    <MESSAGE value="Practice code for Leetcode and algos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice code for Leetcode and algos" />
   </component>
 </project>
